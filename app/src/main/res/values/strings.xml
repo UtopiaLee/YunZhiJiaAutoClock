@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云之家自动打卡</string>
+    <string name="accessibility_service_description">自动识别云之家打卡界面并完成打卡操作。需要此权限才能实现自动打卡功能。</string>
+</resources>
